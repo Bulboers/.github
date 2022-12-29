@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-  steps:
-    - uses: actions/checkout@v3
-    - name: Run CI script
-      run: echo hello from bulboers org!!
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run CI script
+        run: echo hello from bulboers org!!
