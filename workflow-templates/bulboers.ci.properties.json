@@ -1,18 +1,5 @@
 {
   "name": "Bulboers Organization Workflow",
   "description": "Basic CI workflow for your code",
-  "iconName": "anchor",
-  "categories": [
-    "C#",
-    "JavaScript",
-    "TypeScript",
-    "CSS"
-  ],
-  "filePatterns": [
-    "*.js$",
-    "*.ts$",
-    "*.cs",
-    "*.csx",
-    "*.css"
-  ]
+  "iconName": "anchor"
 }
